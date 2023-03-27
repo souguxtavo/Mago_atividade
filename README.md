@@ -5,7 +5,7 @@
 <h1 align="center"> Mago Sports Streaming </h1>
 Mago Sports Streaming é uma empresa americana que fornece transmissão ao vivo de esportes para fãs de esportes em todo o mundo. Nós fornecemos acesso fácil e conveniente a uma ampla variedade de esportes, incluindo futebol americano, basquete, beisebol, hóquei, futebol e muito mais.
 
-<h2> Como funciona </h2>
+<h2> O que é o MAGO? </h2>
 Mago Sports Streaming oferece um serviço de assinatura que permite aos usuários acessar uma ampla variedade de eventos esportivos ao vivo. Os usuários podem acessar a plataforma através do site ou do aplicativo móvel, onde podem escolher entre uma variedade de opções de visualização.
 
 Os usuários também têm a opção de personalizar sua experiência de visualização, incluindo escolher entre diferentes câmeras e ângulos de visão. Além disso, a plataforma oferece recursos interativos, como chats ao vivo, estatísticas e destaques de jogos.
